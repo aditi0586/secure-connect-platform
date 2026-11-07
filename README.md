@@ -173,7 +173,7 @@ Socket.IO enables real-time communication between connected clients and the back
 ```json
 {
   "room": "general",
-  "username": "Harsh",
+  "username": "Aditi",
   "message": "Hello! Testing real-time chat."
 }
 ```
